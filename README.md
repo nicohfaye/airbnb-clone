@@ -1,2 +1,2 @@
-# airbnb-clone
+# Airbnb full stack clone
 Fullstack Airbnb clone
